@@ -1,3 +1,4 @@
+# trigger CI workflow
 import non_existent_module  # intentional bug
 
 from flask import Flask, render_template
